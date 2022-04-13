@@ -246,6 +246,7 @@ If this card works with your vacuum cleaner, please open a PR and your model to 
 - Dreame D9
 - Dreame F9
 - 360 S7 Pro
+- Honiture Q6??
 - [_Your vacuum?_][edit-readme]
 
 ## Development
